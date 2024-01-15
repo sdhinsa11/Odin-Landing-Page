@@ -1,5 +1,19 @@
 .Header{
     display: flex;
-    color: #1F2937;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: space-between; 
+    padding: 40px;
+    border: 40px;
+    text-align: center;
+    font-size: 24px;
+}
 
+
+.links{
+    display: flex;
+    justify-content: flex-end; 
+    color: #E5E7EB;
+    gap: 30px;
+    font-size: 18px;
 }
