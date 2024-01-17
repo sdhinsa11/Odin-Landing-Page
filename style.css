@@ -3,8 +3,8 @@
     background-color: #1F2937;
     color: #F9FAF8;
     justify-content: space-between; 
-    padding: 40px;
-    border: 40px;
+    padding: 30px;
+    border: 30px;
     text-align: center;
     font-size: 24px;
 }
@@ -16,4 +16,16 @@
     color: #E5E7EB;
     gap: 30px;
     font-size: 18px;
+}
+
+
+.Main{
+    display: flex;
+    background-color:#1F2937 ;
+    color: #F9FAF8;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+
 }
