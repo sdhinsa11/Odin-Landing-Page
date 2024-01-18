@@ -41,4 +41,22 @@
     display: flex;
     flex-direction: column;
     width: 400px;
+    gap: 10px;
 }
+
+.img-placeholder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button{
+    background-color: #3882f6;
+    color: white;
+    width: 80px;
+    border-color:#3882f6 ;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
