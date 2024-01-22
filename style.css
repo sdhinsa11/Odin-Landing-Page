@@ -86,7 +86,7 @@
     color: white;
     height: 110px;
     width: 120px;
-    border-radius: 5px;
+    border-radius: 10px;
 
 }
 
@@ -117,4 +117,31 @@
     display: flex;
     flex-direction: column;
     gap:40px;
+}
+
+.Third{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    height:350px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Thors-quote{
+    width: 800px;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    
+}
+
+.Thors-signer{
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.move-text{
+    text-align: left;
 }
