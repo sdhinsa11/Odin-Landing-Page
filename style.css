@@ -67,16 +67,20 @@
 }
 
 
-.second1{
+.second_title{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
+    font-size: 36px;
+
 
 }
 
 .all-squares{
     display: flex;
     gap: 40px;
+    justify-content: center;
 }
 .squares{
     border-style: groove; 
@@ -85,5 +89,13 @@
     height: 100px;
     width: 100px;
     border-radius: 5px;
+
+}
+
+.Second{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 40px;
 
 }
