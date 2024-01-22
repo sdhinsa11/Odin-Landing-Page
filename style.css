@@ -73,8 +73,6 @@
     align-items: center;
     font-weight: bold;
     font-size: 36px;
-
-
 }
 
 .all-squares{
@@ -86,8 +84,8 @@
     border-style: groove; 
     border-color: #3882f6 ;
     color: white;
-    height: 100px;
-    width: 100px;
+    height: 110px;
+    width: 120px;
     border-radius: 5px;
 
 }
@@ -96,6 +94,27 @@
     display: flex;
     flex-direction: column;
     padding-top: 20px;
-    gap: 40px;
+    padding-bottom:130px;
+}
 
+.all-sub-text{
+    display: flex;
+    gap: 33px;
+    justify-content: center;
+}
+
+.sub-text{
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    height: 10px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+} 
+
+.box-and-title{
+    display: flex;
+    flex-direction: column;
+    gap:40px;
 }
