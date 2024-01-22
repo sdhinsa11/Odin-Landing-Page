@@ -66,3 +66,24 @@
     height: 30px;
 }
 
+
+.second1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.all-squares{
+    display: flex;
+    gap: 40px;
+}
+.squares{
+    border-style: groove; 
+    border-color: #3882f6 ;
+    color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+
+}
