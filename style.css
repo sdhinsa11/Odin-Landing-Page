@@ -145,3 +145,55 @@
     padding-left: 510px;
 }
 
+
+.Fourth{
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Blue-box{
+    display: flex;
+    flex-direction: row;
+    background-color: #3882f6;
+    border-radius: 5px;
+    width: 900px;
+    padding:50px;
+    gap: 220px;
+}
+
+.Both-text{
+    display: flex;
+    flex-direction: column;
+    padding-left: 60px;
+    color: white;
+}
+
+.Bolder-text{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.Smaller-text{
+    color: #E5E7EB;
+}
+
+.other-button{
+    border-radius: 5px;
+    width: 100px;
+    background-color:#3882f6 ;
+    color: white;
+    border: solid white;
+    height: 30px;
+    margin-top: 12px;
+}
+
+
+.Footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
