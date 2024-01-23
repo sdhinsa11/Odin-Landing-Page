@@ -87,19 +87,21 @@
     height: 110px;
     width: 120px;
     border-radius: 10px;
+    border-width: 3px ;
 
 }
 
 .Second{
     display: flex;
     flex-direction: column;
-    padding-top: 20px;
-    padding-bottom:130px;
+    padding-top: 90px;
+    padding-bottom:80px;
+    height: 280px;
 }
 
 .all-sub-text{
     display: flex;
-    gap: 33px;
+    gap: 36px;
     justify-content: center;
 }
 
@@ -129,7 +131,7 @@
 }
 
 .Thors-quote{
-    width: 800px;
+    width: 760px;
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
@@ -140,8 +142,6 @@
     font-size: 20px;
     text-align: left;
     font-weight: bold;
+    padding-left: 510px;
 }
 
-.move-text{
-    text-align: left;
-}
